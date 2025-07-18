@@ -165,17 +165,44 @@
             ->coflux = μ_avg × [(ρ₁ - ρ_f) / ρ_f] × [(ρ₂ - ρ_f) / ρ_f] × q_χ(Θ)_avg × (r_ref / r)² × (->r₁₂ / r) - (κ_avg × q_obj × ->E_f / |->E_f|) + Σ[LM]_avg + λ_avg × ->tflux + (γ_avg × B_pl² / μ_0) × (Θ / T_ref) + η_avg × (Δq_χ)² × (Θ / T_ref) + <img src="https://glargod.github.io/uctheory/source_symbol.jpg" alt="Pleichyma Source Symbol" class="source-symbol"> × ρ_p
         </p>
         <ul>
-            <li><strong>Variables</strong>: μ_avg (m³/kg·s²), ρ₁, ρ₂, ρ_f (kg/m³), q_χ(Θ)_avg (~10⁻¹⁴ C/m³), r_ref/r, κ_avg (m/C), Σ[LM]_avg, λ_avg (~10⁻¹⁰ m/s³), γ_avg (H/m), B_pl (~10⁻²⁰ T), η_avg (dimensionless), <img src="https://glargod.github.io/uctheory/source_symbol.jpg" alt="Pleichyma Source Symbol" class="source-symbol"> (Source, pleichymal density factor, ~10⁻²⁷ kg/m³).</li>
-            <li><strong>Magnetic Term</strong>: (γ_avg × B_pl² / μ_0) × (Θ / T_ref).</li>
-            <li><strong>Nonlinear Term</strong>: η_avg × (Δq_χ)² × (Θ / T_ref) for butterfly effects.</li>
-            <li><strong>Pleichyma Term</strong>: <img src="https://glargod.github.io/uctheory/source_symbol.jpg" alt="Pleichyma Source Symbol" class="source-symbol"> × ρ_p represents the base density contribution.</li>
+            <li><strong>μ_avg</strong>: Average permeability coefficient (m³/kg·s²), measures resistance to fluid flow.</li>
+            <li><strong>ρ₁</strong>: Density of instigating medium (kg/m³), e.g., Earth (5,515 kg/m³).</li>
+            <li><strong>ρ₂</strong>: Density of coalescing medium (kg/m³), e.g., marble (5.2 g ≈ 5,200 kg/m³).</li>
+            <li><strong>ρ_f</strong>: Density of intervening medium (kg/m³), e.g., air (1.2 kg/m³).</li>
+            <li><strong>q_χ(Θ)_avg</strong>: Average charge density as a function of temperature (~10⁻¹⁴ C/m³), representing charged particle influence.</li>
+            <li><strong>r_ref / r</strong>: Ratio of reference distance to actual distance (dimensionless), scaling spatial effects.</li>
+            <li><strong>->r₁₂ / r</strong>: Vector displacement ratio (dimensionless), direction of interaction.</li>
+            <li><strong>κ_avg</strong>: Average coupling constant (m/C), links charge to electric fields.</li>
+            <li><strong>q_obj</strong>: Object charge (C), e.g., marble (10⁻⁹ C).</li>
+            <li><strong>->E_f</strong>: Intervening electric field vector (V/m).</li>
+            <li><strong>Σ[LM]_avg</strong>: Average Lorentz-Minkowski term (m/s²), relativistic correction.</li>
+            <li><strong>λ_avg</strong>: Average time flux coefficient (~10⁻¹⁰ m/s³), governs temporal scaling.</li>
+            <li><strong>->tflux</strong>: Time flux vector (s/m), rate of temporal displacement.</li>
+            <li><strong>γ_avg</strong>: Average magnetic susceptibility (H/m), response to magnetic fields.</li>
+            <li><strong>B_pl</strong>: Pleichymal magnetic field (~10⁻²⁰ T), weak field strength.</li>
+            <li><strong>μ_0</strong>: Permeability of free space (H/m), constant (4π × 10⁻⁷ H/m).</li>
+            <li><strong>Θ</strong>: Temperature (K), thermal energy input.</li>
+            <li><strong>T_ref</strong>: Reference temperature (K), e.g., 273 K (0°C).</li>
+            <li><strong>η_avg</strong>: Average nonlinearity factor (dimensionless), amplifies butterfly effects.</li>
+            <li><strong>Δq_χ</strong>: Change in charge density (C/m³), perturbation magnitude.</li>
+            <li><strong><img src="https://glargod.github.io/uctheory/source_symbol.jpg" alt="Pleichyma Source Symbol" class="source-symbol"> × ρ_p</strong>: "Source" symbol times pleichymal density factor (~10⁻²⁷ kg/m³), base density contribution.</li>
         </ul>
         <p><em>->Tflux</em> governs time:</p>
         <p class="math">
             ->tflux = λ_avg × [ρ_t × v_t] + γ_avg × (B_pl² / μ_0) × (Θ / T_ref) + δ ->tflux/δB_pl × (q_χ / ρ_f)
         </p>
         <ul>
-            <li><strong>Variables</strong>: ρ_t (kg/m³), v_t (~10⁻¹⁰ m/s).</li>
+            <li><strong>λ_avg</strong>: Average time flux coefficient (~10⁻¹⁰ m/s³), temporal scaling factor.</li>
+            <li><strong>ρ_t</strong>: Temporal density (kg/m³), effective mass density in time flow.</li>
+            <li><strong>v_t</strong>: Temporal velocity (~10⁻¹⁰ m/s), rate of time propagation.</li>
+            <li><strong>γ_avg</strong>: Average magnetic susceptibility (H/m), magnetic field response.</li>
+            <li><strong>B_pl</strong>: Pleichymal magnetic field (~10⁻²⁰ T), weak field strength.</li>
+            <li><strong>μ_0</strong>: Permeability of free space (H/m), constant (4π × 10⁻⁷ H/m).</li>
+            <li><strong>Θ</strong>: Temperature (K), thermal energy input.</li>
+            <li><strong>T_ref</strong>: Reference temperature (K), e.g., 273 K (0°C).</li>
+            <li><strong>δ ->tflux/δB_pl</strong>: Partial derivative of time flux with respect to magnetic field (s·m/T), sensitivity to B_pl.</li>
+            <li><strong>q_χ</strong>: Charge density (C/m³), e.g., ~10⁻¹⁴ C/m³.</li>
+            <li><strong>ρ_f</strong>: Density of intervening medium (kg/m³), e.g., air (1.2 kg/m³).</li>
         </ul>
         <p><strong>Matches</strong>: Uncharged marble (9.8 m/s²), charged (5.598 m/s², 0.197 s lag).</p>
     </div>
