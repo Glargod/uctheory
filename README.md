@@ -9,13 +9,14 @@
 
 ## Overview
 
-UC Theory proposes that gravity and spacetime are emergent phenomena arising from **Pleichyma** (~10⁻²⁷ kg/m³), a conserved, dynamic substrate that predates the Big Bang and coalesces our universe from a multiverse.
+UC Theory proposes that gravity and spacetime are emergent phenomena arising from **Pleichyma** (\~10⁻²⁷ kg/m³), a conserved, dynamic substrate that predates the Big Bang and coalesces our universe from a multiverse.
 
 Key ideas:
 - Motion and time emerge from **->coflux** (acceleration flux) and **->tflux** (time flux)
 - Local volumes of Pleichyma have **compositional ratios** (matter, charge, consciousness φ_c, magnetism, light, thermal, etc.) that can shift while conserving total Pleichyma
 - Consciousness can become locally dominant under conditions of high coherence, influencing local dynamics
 - A simple charged marble experiment serves as the primary empirical anchor
+- Pleichyma is represented by the **Source** symbol (`source_symbol.jpg`)
 
 This is a **developing speculative framework** that blends symbolic/experiential insight (Fractal Mindscape), mythic resonance (ARK ECHO & Book of Enoch), and proto-mechanistic description.
 
@@ -23,34 +24,38 @@ This is a **developing speculative framework** that blends symbolic/experiential
 
 ## Core Concepts
 
-- **Pleichyma**: Conserved omnipresent medium. Cannot be created or destroyed — only re-proportioned locally.
+- **Pleichyma**: Conserved omnipresent medium. Cannot be created or destroyed — only re-proportioned locally. Represented by the Source symbol.
 - **Compositional Re-proportioning**: Different materials and conscious systems naturally favor different dominant components.
 - **->coflux & ->tflux**: Replace gravity and spacetime as primary descriptors of motion and time.
 - **Consciousness (φ_c)**: Treated as an active modulating component rather than a passive byproduct.
 
 ---
 
-## Current Status (April 2026)
+## Current Status (August 2026)
 
 - **Stage**: Early speculative model — between symbolic cosmology and proto-mechanistic theory
 - **Strength**: High internal coherence and cross-domain mapping (mythic + experiential + physical)
 - **Weakness**: Many parameters remain phenomenological; amplification and re-proportioning mechanisms need tighter definition
 - **Tone**: Honest hybrid — poetic where appropriate, cautious where making claims
+- **Update**: Source symbol now included on the live page under the Pleichyma definition
 
 ---
 
 ## Key Experiment
 
 **Charged Marble Drop**
-- Observed: ~0.197 s lag and reduced acceleration (~5.6 m/s² vs 9.8 m/s²) with 10⁻⁹ C charge
+- Observed: \~0.197 s lag and reduced acceleration (\~5.6 m/s² vs 9.8 m/s²) with 10⁻⁹ C charge
 - Status: Reproducible by author, awaiting independent verification under controlled conditions
 
 ---
 
 ## Repository Contents
 
-- `index.html` — Main live theory page
+- `index.html` — Main live theory page (now includes Source symbol)
+- `source_symbol.jpg` — The Source symbol representing Pleichyma
 - `README.md` — This file
+- `gathering.html` — Related dialogue piece
+- `quiet-current.html` — Additional related page
 - Future: Experiment logs, data, updated versions
 
 ---
