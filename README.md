@@ -19,7 +19,7 @@ Key architectural layers:
 4. **Emergent phenomena** — ordinary spacetime \((x,y,z,t)\), gravity, and motion as projections \(\Pi(\mathcal{P})\)
 5. **Higher-order structure** — latent (“ghost”) temporal trajectories that constrain local state space
 
-Consciousness is retained as a **foundational compositional component**. Absence of current laboratory confirmation is not treated as evidence of absence.
+Consciousness is retained as a **foundational compositional component**. Absence of current laboratory confirmation is not treated as evidence of absence. A short historical note on the page records that consciousness-as-fundamental is a longstanding philosophical possibility rather than a premise invented by UC Theory.
 
 This is a developing speculative framework that blends symbolic/experiential insight (Fractal Mindscape), mythic resonance (ARK ECHO & Book of Enoch), and proto-mechanistic description.
 
@@ -42,7 +42,7 @@ This is a developing speculative framework that blends symbolic/experiential ins
 - **Strength**: Internal coherence across ontology, temporal structure, dynamics, and consciousness
 - **Weakness**: Many parameters remain phenomenological; mathematical home for \(\mathbf{T}\) and the projection \(\Pi\) still open; conservation-consistent \(\varphi_c\) re-proportioning still missing
 - **Tone**: Exploratory and speculative where the ontology requires it; cautious where quantitative claims are made
-- **Update**: Compound polish — architectural layers held fixed, consciousness kept foundational, mathematical and linguistic cleanups applied
+- **Update**: Historical note on consciousness-as-compositional added; architecture held fixed; prior mathematical and linguistic cleanups retained
 
 ---
 
@@ -58,7 +58,7 @@ Candidate consciousness probes (EEG + precision timing, attention-modulated free
 
 ## Repository Contents
 
-- `index.html` — Main live theory page (polished 17 Aug 2026)
+- `index.html` — Main live theory page (updated 17 Aug 2026)
 - `source_symbol.jpg` — The Source symbol representing Pleichyma
 - `README.md` — This file
 - `gathering.html` — Related dialogue piece
