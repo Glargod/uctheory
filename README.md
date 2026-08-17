@@ -9,14 +9,17 @@
 
 ## Overview
 
-UC Theory proposes that gravity and spacetime are emergent phenomena arising from **Pleichyma** (\~10⁻²⁷ kg/m³), a conserved, dynamic substrate that predates the Big Bang and coalesces our universe from a multiverse.
+UC Theory proposes that gravity, ordinary spacetime, and local physical behavior emerge from **Pleichyma** (\~10⁻²⁷ kg/m³), a conserved dynamic substrate that predates the Big Bang.
 
-Key ideas:
-- Motion and time emerge from **->coflux** (acceleration flux) and **->tflux** (time flux)
-- Local volumes of Pleichyma have **compositional ratios** (matter, charge, consciousness φ_c, magnetism, light, thermal, etc.) that can shift while conserving total Pleichyma
-- Consciousness can become locally dominant under conditions of high coherence, influencing local dynamics
-- A simple charged marble experiment serves as the primary empirical anchor
-- Pleichyma is represented by the **Source** symbol (`source_symbol.jpg`)
+Key architectural layers:
+
+1. **Ontology** — Pleichyma (conserved medium with compositional ratios, including consciousness \(\varphi_c\))
+2. **Temporal structure** — \(\mathbf{T} \in \mathcal{T}\), an abstract directional temporal state space
+3. **Dynamic response** — coflux (response to spatial *and* temporal gradients)
+4. **Emergent phenomena** — ordinary spacetime \((x,y,z,t)\), gravity, and motion as projections
+5. **Higher-order structure** — latent (“ghost”) temporal trajectories that constrain local state space
+
+Consciousness is retained as a **foundational compositional component**, not demoted to a later add-on. Absence of current laboratory confirmation is not treated as evidence of absence.
 
 This is a **developing speculative framework** that blends symbolic/experiential insight (Fractal Mindscape), mythic resonance (ARK ECHO & Book of Enoch), and proto-mechanistic description.
 
@@ -24,67 +27,76 @@ This is a **developing speculative framework** that blends symbolic/experiential
 
 ## Core Concepts
 
-- **Pleichyma**: Conserved omnipresent medium. Cannot be created or destroyed — only re-proportioned locally. Represented by the Source symbol.
-- **Compositional Re-proportioning**: Different materials and conscious systems naturally favor different dominant components.
-- **->coflux & ->tflux**: Replace gravity and spacetime as primary descriptors of motion and time.
-- **Consciousness (φ_c)**: Treated as an active modulating component rather than a passive byproduct.
+- **Pleichyma**: Conserved omnipresent medium. Cannot be created or destroyed — only re-proportioned locally. Represented by the Source symbol (`source_symbol.jpg`).
+- **Compositional ratios**: matter : charge : consciousness \(\varphi_c\) : magnetism : light : thermal : …
+- **tflux**: local temporal geometry / directional structure \(\mathbf{T}\)
+- **coflux**: dynamical response of configuration to gradients in Pleichyma (spatial + temporal components)
+- **Consciousness (\(\varphi_c\))**: ontologically primary; can become locally dominant under high coherence and modulate permitted trajectories
+- **Ghost trajectories**: alternative temporal continuations that need not form separate spatial universes; they may act as latent constraints on local dynamics
 
 ---
 
-## Current Status (August 2026)
+## Current Status (17 August 2026)
 
-- **Stage**: Early speculative model — between symbolic cosmology and proto-mechanistic theory
-- **Strength**: High internal coherence and cross-domain mapping (mythic + experiential + physical)
-- **Weakness**: Many parameters remain phenomenological; amplification and re-proportioning mechanisms need tighter definition
+- **Stage**: Early speculative model with clarified layered architecture
+- **Strength**: Internal coherence across ontology, temporal structure, dynamics, and consciousness
+- **Weakness**: Many parameters remain phenomenological; mathematical home for \(\mathbf{T}\) and the projection \(\Pi\) still open
 - **Tone**: Honest hybrid — poetic where appropriate, cautious where making claims
-- **Update**: Source symbol now included on the live page under the Pleichyma definition
+- **Update**: Full architectural revision incorporating directional temporal structure and latent trajectories while keeping consciousness foundational
 
 ---
 
 ## Key Experiment
 
 **Charged Marble Drop**
-- Observed: \~0.197 s lag and reduced acceleration (\~5.6 m/s² vs 9.8 m/s²) with 10⁻⁹ C charge
-- Status: Reproducible by author, awaiting independent verification under controlled conditions
+- Observed: \~0.197 s lag and reduced acceleration (\~5.6 m/s² vs 9.8 m/s²) with \~10⁻⁹ C charge
+- Status: Reproducible by author; independent shielded verification required
+
+Candidate consciousness probes (EEG + precision timing, attention-modulated free-fall, etc.) remain open experimental avenues.
 
 ---
 
 ## Repository Contents
 
-- `index.html` — Main live theory page (now includes Source symbol)
+- `index.html` — Main live theory page (revised 17 Aug 2026)
 - `source_symbol.jpg` — The Source symbol representing Pleichyma
 - `README.md` — This file
 - `gathering.html` — Related dialogue piece
 - `quiet-current.html` — Additional related page
-- Future: Experiment logs, data, updated versions
+- Future: experiment logs, data, tighter mathematics
 
 ---
 
 ## Philosophy & Approach
 
-This work originated from direct dreamer/visionary experience (Fractal Mindscape) rather than purely academic derivation. It honors both:
-- The **symbolic/exploratory regime** (mapping to ancient visions, consciousness, and mythic structures)
-- The **mechanistic/proto-physical regime** (requiring conservation, constraints, and testability)
+This work originated from direct dreamer/visionary experience (Fractal Mindscape) rather than purely academic derivation. It deliberately maintains two regimes:
 
-Clear regime labeling is used to avoid mixing the two unintentionally.
+- **Symbolic / Exploratory** — mapping to consciousness, mythic structures, and broad conceptual synthesis
+- **Mechanistic / Proto-Physical** — quantitative claims, conservation, and testability
+
+Clear regime labeling is used to avoid unintentional mixing.
+
+UC Theory is offered as an *adjacent ontology* rather than a competing Theory of Everything. Conventional mathematical descriptions (including those of string theory or general relativity) may still describe the emergent structures that arise within Pleichyma.
 
 ---
 
 ## Limitations (Honest)
 
 - Equations are currently phenomenological/illustrative
-- Scaling from lab to cosmic phenomena remains underconstrained
-- Consciousness coupling mechanism needs much more rigorous definition
+- Scaling from laboratory to cosmic scales remains underconstrained
+- Precise mathematical character of \(\mathbf{T}\) and the projection to ordinary spacetime is still open
+- Consciousness coupling, while foundational in the ontology, lacks current controlled experimental confirmation
 - Not yet a completed physical theory — presented as an evolving framework
 
 ---
 
 ## Future Directions
 
-- Independent replication of marble experiment
-- Tighter mathematical definition of re-proportioning rules
-- Gaia DR3 analysis for pleichymal signatures
-- EEG + physical experiment hybrids exploring φ_c effects
+- Independent replication of the marble experiment under controlled conditions
+- Sharper definition of re-proportioning rules, conservation, and the structure of \(\mathbf{T}\)
+- Gaia DR3 analysis for possible pleichymal signatures
+- EEG-monitored and attention-modulated laboratory probes of \(\varphi_c\) effects
+- Exploration of whether latent temporal trajectories leave measurable statistical fingerprints
 
 ---
 
