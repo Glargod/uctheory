@@ -9,19 +9,19 @@
 
 ## Overview
 
-UC Theory proposes that gravity, ordinary spacetime, and local physical behavior emerge from **Pleichyma** (\~10⁻²⁷ kg/m³), a conserved dynamic substrate that predates the Big Bang.
+UC Theory proposes that gravity, ordinary spacetime, and local physical behavior emerge from **Pleichyma** (\~10⁻²⁷ kg/m³), a conserved dynamic substrate treated as ontologically prior to the spacetime regime conventionally described by Big Bang cosmology.
 
 Key architectural layers:
 
 1. **Ontology** — Pleichyma (conserved medium with compositional ratios, including consciousness \(\varphi_c\))
 2. **Temporal structure** — \(\mathbf{T} \in \mathcal{T}\), an abstract directional temporal state space
 3. **Dynamic response** — coflux (response to spatial *and* temporal gradients)
-4. **Emergent phenomena** — ordinary spacetime \((x,y,z,t)\), gravity, and motion as projections
+4. **Emergent phenomena** — ordinary spacetime \((x,y,z,t)\), gravity, and motion as projections \(\Pi(\mathcal{P})\)
 5. **Higher-order structure** — latent (“ghost”) temporal trajectories that constrain local state space
 
-Consciousness is retained as a **foundational compositional component**, not demoted to a later add-on. Absence of current laboratory confirmation is not treated as evidence of absence.
+Consciousness is retained as a **foundational compositional component**. Absence of current laboratory confirmation is not treated as evidence of absence.
 
-This is a **developing speculative framework** that blends symbolic/experiential insight (Fractal Mindscape), mythic resonance (ARK ECHO & Book of Enoch), and proto-mechanistic description.
+This is a developing speculative framework that blends symbolic/experiential insight (Fractal Mindscape), mythic resonance (ARK ECHO & Book of Enoch), and proto-mechanistic description.
 
 ---
 
@@ -40,9 +40,9 @@ This is a **developing speculative framework** that blends symbolic/experiential
 
 - **Stage**: Early speculative model with clarified layered architecture
 - **Strength**: Internal coherence across ontology, temporal structure, dynamics, and consciousness
-- **Weakness**: Many parameters remain phenomenological; mathematical home for \(\mathbf{T}\) and the projection \(\Pi\) still open
-- **Tone**: Honest hybrid — poetic where appropriate, cautious where making claims
-- **Update**: Full architectural revision incorporating directional temporal structure and latent trajectories while keeping consciousness foundational
+- **Weakness**: Many parameters remain phenomenological; mathematical home for \(\mathbf{T}\) and the projection \(\Pi\) still open; conservation-consistent \(\varphi_c\) re-proportioning still missing
+- **Tone**: Exploratory and speculative where the ontology requires it; cautious where quantitative claims are made
+- **Update**: Compound polish — architectural layers held fixed, consciousness kept foundational, mathematical and linguistic cleanups applied
 
 ---
 
@@ -52,13 +52,13 @@ This is a **developing speculative framework** that blends symbolic/experiential
 - Observed: \~0.197 s lag and reduced acceleration (\~5.6 m/s² vs 9.8 m/s²) with \~10⁻⁹ C charge
 - Status: Reproducible by author; independent shielded verification required
 
-Candidate consciousness probes (EEG + precision timing, attention-modulated free-fall, etc.) remain open experimental avenues.
+Candidate consciousness probes (EEG + precision timing, attention-modulated free-fall, etc.) remain open experimental avenues. Three situations are distinguished: no positive evidence yet, evidence against a specific mechanism, and evidence against ontological fundamentality.
 
 ---
 
 ## Repository Contents
 
-- `index.html` — Main live theory page (revised 17 Aug 2026)
+- `index.html` — Main live theory page (polished 17 Aug 2026)
 - `source_symbol.jpg` — The Source symbol representing Pleichyma
 - `README.md` — This file
 - `gathering.html` — Related dialogue piece
@@ -76,7 +76,7 @@ This work originated from direct dreamer/visionary experience (Fractal Mindscape
 
 Clear regime labeling is used to avoid unintentional mixing.
 
-UC Theory is offered as an *adjacent ontology* rather than a competing Theory of Everything. Conventional mathematical descriptions (including those of string theory or general relativity) may still describe the emergent structures that arise within Pleichyma.
+UC Theory is offered as an *adjacent ontology* rather than a competing Theory of Everything. Conventional mathematical descriptions may still describe the emergent structures that arise within Pleichyma.
 
 ---
 
@@ -85,6 +85,7 @@ UC Theory is offered as an *adjacent ontology* rather than a competing Theory of
 - Equations are currently phenomenological/illustrative
 - Scaling from laboratory to cosmic scales remains underconstrained
 - Precise mathematical character of \(\mathbf{T}\) and the projection to ordinary spacetime is still open
+- A conservation-consistent treatment of \(\varphi_c\) re-proportioning is still missing
 - Consciousness coupling, while foundational in the ontology, lacks current controlled experimental confirmation
 - Not yet a completed physical theory — presented as an evolving framework
 
@@ -93,7 +94,8 @@ UC Theory is offered as an *adjacent ontology* rather than a competing Theory of
 ## Future Directions
 
 - Independent replication of the marble experiment under controlled conditions
-- Sharper definition of re-proportioning rules, conservation, and the structure of \(\mathbf{T}\)
+- Development of a conservation-consistent treatment of \(\varphi_c\) re-proportioning
+- Sharper mathematical definition of the structure of \(\mathbf{T}\) and the projection \(\Pi\)
 - Gaia DR3 analysis for possible pleichymal signatures
 - EEG-monitored and attention-modulated laboratory probes of \(\varphi_c\) effects
 - Exploration of whether latent temporal trajectories leave measurable statistical fingerprints
